@@ -1,0 +1,14 @@
+Advanced Traffic Management System
+
+Abstract
+The technological and industrial developments have led to a wide-scale usage of vehicles which causes traffic issues across most cities leading to traffic congestion and stressed health conditions and also causes delays in emergencies which cause significant damage.
+The solution is to manage traffic efficiently by using optimized algorithms that control traffic signals. The algorithm is formulated by analysing the data already collected, which finds the best combinations of traffic signals across a given area to minimize traffic congestion and ensure efficient passage of vehicles.
+Formulation of this algorithms involves identifying the heavily congested areas and computing the various combinations of traffic signals surrounding it to de-escalate the increasing traffic. The identification and computation can be carried out through training neural networks using machine learning. This system uses an API (Application Programming Interface) to fetch live traffic data and a GPS to fetch the live location data of the vehicles. The server controls the traffic signals by implementing the algorithm found by analysis of collected data.
+This can be implemented on a large-scale to run traffic signals across an entire city. Also, during emergencies, the vehicle could be given a higher priority to reach its destination quicker by controlling the traffic signals along its path. This system has very few new hardware components, as already existing hardware can be controlled by the software written that uses the algorithm, which minimises the cost requirements. This can also help optimise road safety and rescue operations.
+
+
+
+SANJAY S
+THANMUGHIL DK
+BALASAKTHI A
+2nd YEAR (IT)
